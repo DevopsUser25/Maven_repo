@@ -13,3 +13,16 @@ Basic Commands
  - git config
  - git log
  - git show
+Advanced commands
+  - git pull
+  - git push
+  - git clone
+  - git remote
+Github Administration
+  - GUI -> Branch, tags, commit files
+  - Branch  & Tag protection rules
+  - SSH and HTTPS Clone
+  - Collabrators
+  - General Settings
+PullRequest
+Fork mechansim
