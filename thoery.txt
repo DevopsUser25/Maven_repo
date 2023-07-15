@@ -1,0 +1,15 @@
+Overview of GIT
+what is Version control system ? why Version control system ?
+Traditional way of storing the code.
+Types of Version control system(VCS)
+Architecture of Git
+Installation of Git
+Basic Commands
+ - git init
+ - git --version
+ - git add
+ - git status
+ - git commit
+ - git config
+ - git log
+ - git show
